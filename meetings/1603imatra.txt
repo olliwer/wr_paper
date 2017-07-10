@@ -1,0 +1,34 @@
+16.3. Imatra, Stora Enson tehdas
+
+Tuotantoinfraan alusta, johon sovellukset tulevat. Tarjotaan siis serveri-infra, jota muut käyttävät. 
+
+Efora, Stora Enson tytäryhtiö, vastaa paperi- ja kartonkikonelinjojen, sellutehtaidet, arkituslinjojen sekä tehtaiden voimantuotannon kunnossapidosta.
+-Ennakkohoito, korjaava ja parantava kunnossapito, kriittisyysluokitus ja varaosatarkastelu
+
+Kartonkikone 5 valittiin, koska siinä oli tuotanto-ongelmia:
+1 Perälaatikon saostumat -> kuivausrummun mällit
+2 Taru-projektin jäljiltä logistiikan vetäminen, pituusleikkurin jälkeinen homma
+3 
+
+Laatutietoasioita ei saa jakaa!
+
+Tavoitteet yhteiselle datalle, tai ideoita mitä datasta voisi saada irti:
+
+
+Legal: NDA vai autentikaatio rajapintaan?
+
+
+Tekkiasiat:
+Wedge-oikeudet
+Osaamista kemiallisen sellun / kartongin valmistuksesta
+
+
+Stora Enson datat:
+10 sekunnin snapshotit eri sensoreista
+Virheraportteja
+
+
+Wedge:
+Tsekkaa koko Tainionkoski BM5 model
+
+

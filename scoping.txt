@@ -1,0 +1,19 @@
+Business model
+==============
+
+typical: 
+physical goods -> transfer ownership through sales
+owner responsible for costs of servicing and use, has risks of downtime and defects not incldued in warranty
+
+possible alteration:
+"product-as-a-service"
+manufacturer, through collecting data, can optimize service and predict and reduce failures. customers can pay as they use the product, not up-front. manufacturer captures service efficiencies.
+-> increased buyer power, if buyers can easily change products
+
+
+
+
+Digital maturity
+================
+
+In essence, an organization where digital has transformed processes, talent engagement and business models

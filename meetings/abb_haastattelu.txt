@@ -1,0 +1,42 @@
+Mika Luotojärvi, systeemiarkkitehtuuri. 
+
+
+Onko Stora Ensolla ja ABB:lla sopimuksia dataan liittyen järjestelmien toimituksien ajoilta?
+-Ei varsinaisesti otettu kantaan, muuten kuin että kaikki data on asiakkaan omistamaa. ABB voi käyttää sitä vain tehdäkseen sovelluksia asiakkaille, muu käyttö lähtökohtaisesti kielletty. On tehty EU-hankkeissa sopimuksia, joissa on määritelty että dataa saa jakaa eri yritysten välillä tiettyyn tarkoitukseen. Tällöin on siirretty dataa ulos tehtaalta järjestelmiin, jotka ovat ABB:n ostamia. Tänne on päästetty ulkopuolisia tahoja.
+
+
+Minkälaisia käytänteitä on omaksuttu datan suhteen?
+-Kysytty erikseen lupaa jos haluttu käyttää jotakin dataa. Tähän asti datalla ei ole ollut niin paljon merkitystä, mutta tämä muuttuu. Nyt kun tehdään palveluita jotka pohjautuvat dataan, ja siirrytänä palvelutuotantoon, tilanne muuttuu varmasti. Tätä ei ole vielä sopimuksessa otettu huomioon.
+
+-Etäkunnonvalvontajärjestelmissä data kerätään ABB:lle, ja datan omistaa ABB. Tästä ei kuitenkaan saada ottaa asiakkaan liiketoimintasalaisuuksia, kuten miten he käyttävät jotain laitetta tai mitkä ovat tietyn hyötysuhteen. Vaan laitteen toimintatiedot saa kerätä ja käyttää omaan tuotekehitykseen!
+
+
+Missä määrin dataa halutaan antaa yhteiseen pilveen?
+-Kaikki data on asiakkaan, ei mitään mikä on ABB:n. 
+-Jakelu pitäisi hoitaa standardilla rajapinnalla, jotta voidaan piilottaa miten asiat sisäisesti mallinnetaan. 
+-Mitattua tietoa automaatiojärjestelmistä. Prosessiautomaation instumentaatiota laadunhallinnan puolesta. Kattaa sen prosessi-instrumentointipuolen, ei esimerkiksi sähkömoottoreiden toimintaa. 
+
+-On myös toimittajien sisäistä dataa! 
+!!!Pitää suojata ettei kilpailijat pääse kiinni näihin tietoihin, jotka voivat olla todella oleellisia.!!!
+
+
+Minkälaisia hyötyjä tai kompensaatiota koette saavanne tästä jaetusta datasta?
+-Erinomaisen hyödyllistä päästä asiakkaan laajaan datamassaan kiinni. Tätä voidaan käyttää tuotekehityksen tarpeisiin. Asiakas kuvaa, että heillä on tällaisia ongelmia, ja on kaikki data käytössä, voidaan oikeasti lähtemään miettimään sitä miten tämä ongelma oikeasti ratkaistaan. 
+-Ensisijaisesti hyötyjä on asiakas. Jos prosessia voidaan parantaa, hyöty menee asiakkaalle. Toimittajalle hyöty se että osaaminen kasvaa, ja voidaan ratkoa samanlaisia ongelmia paremmin. Laitteiden sisäiset tiedot halutaan myös, ja jotta voidaan valvoa omia laitteita ja ymmärtää miten ne tällaisessa prosessissa toimivat. Etäkunnossapitokin tarvitsee, tätä tehdään vain datan perusteella, ja tästäkin loppuasiakas hyötyy, kun kunnossapitokustannukset pienenevät kun kunnossapito tehdään oikeaan aikaan. 
+
+
+Minkälaisia kriteereitä teillä on masterdatan omistajuuteen, datan elinkaareen ja muihin omistajuuteen liittyviin asioihin?
+-Sopimuksissa pitäisi suojata sitä, ettei dataa saa käyttää tuotteen toiminnan vakoiluun. Organisaatiot jotka osallistuvat tiedon käyttämiseen eivät saa olla kilpailijan tuotekehitysorganisaatio, jotta he eivät pääse käsiksi kilpailijan laitetietodataan.
+-IoT -maailmassa ja tuotteiden muuttuessa palveluksi asiat saattavat muuttua aivan toisenlaisiksi. 
+-Etäkunnossapito, palveluiden myyminen asiakkaalle, niin data ABB:n omistamaa ja loppuasiakkaalle myydään vain palvelua ja prosessiin ja tuotantoon liittyvää dataa. 
+
+
+Datan jakaminen muiden kanssa?
+-Jos loppuasiakkaat antavat dataa jota käytetään tuotekehitystarkoituksessa, ja näkevät siinä arvoa jotta ABB ja muut voivat tehdä palveluita jotta he voidat parantaa prosesseitaan, niin ei saa olla suoraa benchmarkkausta kilpailijoiden kanssa. Dataa ei siten saa myydä kilpailijoille ilman, että siitä tehdään anonyymiä!
+^Datan poistaminen pilvesti kolmannelle partylle siis vaatii anonymiteettiä!
+
+
+
+Simo.saynevirta@fi.abb.com 
+
+

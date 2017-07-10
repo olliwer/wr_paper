@@ -1,0 +1,6 @@
+Nyt palvelusopimus: data kerätään nyt laitteista ja asiakkaalla siitä omistus, meillä jokin mahdollisuus käydä tutkimassa dataa. 
+
+Palvelusopimuksia jossa data kerätään tietyissä prosesseissa ulos tehtaalta. Data asiakkaan omistuksessa ja salassapitolupauksen mukaan toimitaan. 
+Raakadata asiakkaan omistamaa.
+
+

@@ -1,0 +1,117 @@
+Määritellään blueprint yritysten välisen datan jakamisalustalle
+
+
+2. How should the data be governed?
+	-Engineering, Operations, Maintenance -> kolme datalähdettä integroidaan? Engineering-tietoa ei ole SE:llä juuri käytettävissä
+
+	-Ajatellaan kaupallista dataa josta maksetaan jotain. mistä tulee business-intressit? syntyykö jokaiselle reaaliarvoa? 
+
+Miten datan yhteiskäyttöä pitäisi hallita?
+Mitä kukakin yritys pystyy tuottamaan yhteiseen pilveen? 
+Mitä tietojärjestelmästä voidaan ottaa ja mitä ei?
+
+Sisältö | Liiketoiminta | Elinkaari | Lisenssit 
+Kuka vastaa masterista? Mitkä tarvittavat hallintakriteerit jotta yritykset suostuvat lähtevään tähän mukaan?
+Alustojen alustan pyörittäminen voisi olla jopa potentiaalinen bisnes.
+
+
+
+
+
+-Haastattelut: ABB, Stora Enso, Metso, Efora, Valmet: mitä dataa? miten kokee hyötyvänsä tästä? miten omistus teidän mielestä mahdollista? ovatko valmiita luovuttamaan? Onko mahdollista rakentaa osuuskunta? -> jokainen tuo oman datansa, hyötyä jaetaan.  
+-Haastattelurungon tueksi kyselylomake, jonka voi lähettää laajemmalle porukalle. 
+
+
+Metso: Pirjo Nyberg
+Valmet: Johan Pensar 
+SE/Efora: Mikko Nieminen, Antti Kymäläinen, Antero Lattu
+ABB: Mika Luotojärvi, Simo Säynevirta
+Koja: Pasi Lähteinen @koja.fi
+
+
+Mitä on suora laitedata (joka ei ole ollut stora enson näkyvillä lainkaan)?
+
+Selvitettävää: LÄHTÖASETELMA
+=============== 
+Datan sisältö || Business || Lisenssit || Datan elinkaari?
+
+Onko Stora Ensolla ja Metsolla sopimuksia dataan liittyen järjestelmien toimituksien ajoilta?
+Minkälaisia käytänteitä on omaksuttu datan suhteen?
+Missä määrin dataa halutaan antaa yhteiseen pilveen?
+Minkälaisia hyötyjä tai kompensaatiota koette saavanne tästä jaetusta datasta?
+Minkälaisia kriteereitä teillä on masterdatan omistajuuteen, datan elinkaareen ja muihin omistajuuteen liittyviin asioihin?
+
+pirjo.nyberg@metso.com
+johan.pensar@valmet.fi
+mika.luotojarvi@fi.abb.com
+pasi.lahteinen@koja.fi
+
+stora enso
+mikko.nieminen@storaenso.com
+
+efora
+veijo & antti
+
+
+
+
+
+Minkälaisia oikeuksia dataan tarvitaan yhteisessä pilvessä?
+Minkälaisia oikeuksia yritykset ovat valmiita antamaan?
+
+
+LISENSSI: Creative commons? Tulisi tarjota datan salliminen ulkoisille toimijoille myöhemmin.
+
+Konsortio/osakunta/stora enso/efora -omistajuus? Mikä omistajuusmuoto on se mitä tarvitaan?
+
+Salassapitosopimukset < laitekohtaisen tiedon jakaminen kilpailijoille
+
+
+
+
+
+Halutaan tunnistaa blueprint toimintamallille, jota voidaan soveltaa vastaaviin tilanteisiin teollisuudessa.
+-Kuinka kuvailla tätä?
+-Konsortio / yhteisö, keskinäinen sopimus, mekanismi uusille, lisenssi, ..
+-Tietyt ehdot jolla osakkaat luovuttavat datansa konsortion käyttöön, ehkä vaihtoehtoisia lisenssejä, rajoja keitä saa käyttää mitäkin dataa?
+-
+
+
+
+
+Case study: kuinka feasible tällaienn ajatus ylimalkaan on? Millä edellytyksillä tällainen konsepti saattaisi olla mahdollinen?
+
+
+Tutkimuksen kulku:
+===================
+Lähtöasetelma, existing practices
+Potential new business: identifiointi, maintenancen ajoitus
+
+
+what are the bottlenecks in utilizing them?
+how to remove the bottlenecks? Minkälainen malli rakentaa ja miten?
+how to implement?
+
+1. Lähtöasetelman ymmärtäminen
+2. Relevantit data governance-tutkimukset
+3. Haastattelupohjan rakennus
+4. Haastattelut
+5. Synteesi, mallin rakennus
+
+Kartonkikoneen tuotantoa pyritään optimoimaan. 
+
+Minkälainen hallinnollinen malli mahdollistaa yritystenvälisen tiedon jakamisen? Yritetään luoda geneerinen blueprint.
+-Luonnollinen hierarkia, koska stora enso vastaa tuotannosta. Omistaja, ylläpitäjä,
+
+RQ 1:  
+RQ 2: Lisenssit, jakaminen, minkälaisia kriteereitä jakamisen suhteen, kuinka kapeita. Kuvailee mitä datalle tapahtuu kun luovutan datan. kauanko? Tarvittava läpinäkyvyys? Blockchainit?
+RQ 3: 
+
+
+
+
+Data governance model - cross-enterprise
+
+
+Tutkimusongelma ja kysymykset selvillä, laita martille ja jarille.
+

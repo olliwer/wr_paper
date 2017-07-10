@@ -1,0 +1,39 @@
+Data governance ja data management käsittelevät samoja asioita.
+
+Data governance: mietitään ja määritellään tieto ja sen omistajuus. Kuka saa päättää päätöksistä, kuka sen omistaa, kuka saa vastata päätöksistä.
+
+
+
+
+Lähtee siitä, mitä on data governance perinteisessä mielessä.
+Mitä se on tällaisessa tapauksessa
+Mitä se on tällaisessa extended enterprise -tapauksessa, jossa on verkko yrityksiä joilla on intressejä toimia yhteen. command & control vs. verkosto. governance on neuvotteluprosessi.
+
+
+
+
+case-yrityksen kuvauksessa maadota yritys tietovirtoihin.
+
+Käytä stora ensoa business casena:
+kuka omistaa ja mitä dataa, 
+millä pelisäännöillä he voivat jakaa sitä toisinaan, 
+kuka on aggregaattidatan omistaja?
+
+
+Nosta literature reviewstä 4 data governancen core-prosessia: data lifecycle management (tiedon jakaminen ajallisesti rajattua, poisto?), data quality, data security and access management (pitää määritellä tarkkaan mitä dataa antaa), data ownership (analytiikan tulokset, aggregaattidata)
+
+corporate governancen alle.
+
+
+Prosessikuvaus ja haastattelu. Käydään läpi osapuolten näkemykset, ja miten ne istuvat valittuihin governance-malleihin, ja minkälaiset hypoteesit pitää tehdä. Käytännössä governance tehdään sopimalla vastuista ja rooleista. 
+
+
+Teokset:
+Data Management body of knowledge
+
+Extended enterprise governance context
+
+Governance - tai IT -conferenssit.
+Karin paperit. 
+
+

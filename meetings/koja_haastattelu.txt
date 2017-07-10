@@ -1,0 +1,18 @@
+Onko Stora Ensolla ja Kojalla sopimuksia dataan liittyen järjestelmien toimituksien ajoilta?
+-Eforaan kanssa kunnossapitoon liittyviä sopimuksia.
+
+
+Minkälaisia käytänteitä on omaksuttu datan suhteen?
+
+
+Missä määrin dataa halutaan antaa yhteiseen pilveen?
+-Puhaltimien laakereilta ja moottoreilta laakeroinnista kerättävän datan värähtelyanalyysi: lämpötilatieto, ennakoiva diagnostiikka jolal voidaan ennustaa onko orastava vaurio laakerissa.
+
+Minkälaisia hyötyjä tai kompensaatiota koette saavanne tästä jaetusta datasta?
+-Tulevaisuudessa: meidän osaaminen verkoston käyttöön, meillä siellä joku rooli puhanneteknologian puolesta, kompensaatioan kuukausifee. 
+
+Minkälaisia kriteereitä teillä on masterdatan omistajuuteen, datan elinkaareen ja muihin omistajuuteen liittyviin asioihin?
+-Datan omistaa laitteen omistaja (Stora Enso). Tuodaan lisäarvo meidän omistamalla ja sillä, miten me voidaan datasta tulkita. Tästä asiakas maksaisi meille.
+
+Datan jakaminen muiden kanssa?
+-Voidaan jakaa muille, ei komplikaatioita. Voidaan meidän osaamisella kaivaa datasta se asia esiin, mikä loppuasiakasta kiinnostaa. 

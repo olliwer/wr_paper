@@ -1,0 +1,70 @@
+Onko Stora Ensolla ja Metsolla sopimuksia dataan liittyen järjestelmien toimituksien ajoilta?
+ 
+Liiketoiminnan nykytilanne:
+-Vanha Metso (Prosessien ohjausjärjstelmät olivat osa Metson tuoteperhettä ) silloin oli ohjelmiston käyttösopimukset,
+
+Stora Enso on jo avainasiakas, jolloin heidän kanssa toimitaan jo eri tavalla kuin ei-avainasiakkaiden.
+ 
+Nykyinen Metson rakenne: Metso Flow Controlissa tilanne on toinen koska olemme älykkäiden säätö- ja automaatioventtiiileiden laitetoimittaja.
+- Laitteilta kerättävä Data on asiakkaan venttiilitoimituksen jälkeen, (asiakkaalla elinikäinen käyttöoikeus)
+ 
+- Metso Flow Controlilla on tiedon keruusen ja analysointiin käytettäviä tuotteita, joko jälleenmyyjänä ja silloin datan omistajuus on asiakkaalla tai tuote softapaketin muodossa, jolloin asiakas ei edelleenkään omista softaa, mutta data ja analyysitulokset ovat asiakkaan
+ 
+
+
+
+
+
+Minkälaisia käytänteitä on omaksuttu datan suhteen? 
+ 
+Ks. Edellä. Metsolla ei ole yksittäisten analyysien kohdalla tehty erillisiä datanomistajuuteen liittyviä sopmiuksia. Menty yleisten terms and conditions ehtojen mukaisesti. Yksittäisissä tapauksissa salassapitosopimuksia.
+ 
+
+
+
+
+
+
+Missä määrin dataa halutaan antaa yhteiseen pilveen?
+ 
+-1) staattinen asennuskantatieto (missä positiossa tehtaalla on minkäkinlainen laite)
+
+-2) dynaaminen laitedata (diagnostiikkadata)
+Data jota komponentti kerää on asiakkaan dataa. Teemme kuitenkin analyysiä datalle, jolloin datasta saadaan informaatiota. Mikä tämän informaation jakamispolitiikka on? Asiantuntijatyölle täytyy miettiä joku suoja.
+
+
+Minkälaisia hyötyjä tai kompensaatiota koette saavanne tästä jaetusta datasta?
+ 
+-Saadaan diagnostiikkatietoa jatkuvasti analyysin ja tuotekehityksen tueksi.
+^Normaalitilanteessa access dataan on vain satunnaisesti, case-by-case. Data täytyy hakea fyysisesti laitokselta.
+
+Pilvimallissa uhka datan jakamiseen ei ole samanlainen kuin nykyisessä tilanteessa, jossa data ei ole erillään operatiivisesta ympäristöstä. Eristetään siis analysoitava data operatiivisesta ympäristöstä.
+
+-Täältä voi löytyä jotain sellaista, mitä ei olla edes osattu etsiä.
+
+-Metsolle uutuusarvo kun pääsemme vertaamaan laitedataa (=älykkään asennoittimen tuottama diagnostiikkatieto) kartonkikoneen tietojärjestelmien tuottamaan tietoon, prosessidata, kunnonvalvonta, vikaantumisseuranta
+ 
+
+
+
+
+
+
+
+
+Minkälaisia kriteereitä teillä on masterdatan omistajuuteen, datan elinkaareen ja muihin omistajuuteen liittyviin asioihin?
+ 
+-Tässä TEKES  hankkeessa ei nähdä rajoitteita Metson toimittamien laitteiden tuottaman tiedon jakamiselle eikä datan käyttöön hankkeen osapuolten kesken.
+ 
+1) asennuskantatieto as delivered. Metson tietomallin tuottama tieto, mutta elinkaaren statuksesta asiakkaan järjestelmässä asiakas vastaa itse.
+2) laitedata, datan omistajuus asiakkaalla. Metso auttaa datan siirtämisessä pilveen ja/ tai yhdessä luotaviin analysointiratkaisuihin
+
+-Kumppanit vetäytyvät jos tulee se kuva, että kaikki data on täysin avointa dataa.
+
+Summary tutkimustuloksista vastaavista caseista seuraavaan kokoukseen. 
+
+Hankkeen seurauksena syntyvät IPR:t / patenttihakemukset, onko näiden omistuspolitiikasta kirjoitettu mitään? 
+^Kysy Karilta TEKES:n paperit.
+ 
+ 
+

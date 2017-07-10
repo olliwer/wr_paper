@@ -1,0 +1,80 @@
+19.2. Otaniemi
+Liiketoimintasäännöt, hallintosäännöt tiedon jakamiseen. Ei tekninen jakaminen, vaan liiketoimintanäkökulma. 
+
+What kind of joint data would improve the reliability of machines, and thus the outcome of Imatra BL5 production line?
+
+Maintenance
+===========
+
+-Laitteiden käyttötiedot ja niiden väliset korrelaatiot: esim. venttiilit ja moottorit. katsotaan ristiin, ei komponentti komponentilta. tuotantoprosessinäkökulma
+	-Ennakoitavuus on se juttu! - mihin kannattaa keskittyä "korrelaatioiden" kautta?
+	-Häiriöiden ennakoitavuus normaalitilanne vs. epänormaali tilanne
+
+-Kunnonvalvontajärjestelmä (Valmet / Metso / Stora Enso / Efora) ja sen tiedon linkittäminen muihin tietoihin
+-kunnossapitojärjestelmä, hankintajärjestelmä, (Stora Enso / Efora SAP)
+
+-Vikaantumisdataa (ABB / Valmet), ja juurisyiden ymmärtäminen (best-practices hyödyntäminen, käyttötavat, valmistuserät, selittävät tekijät epänormaaleihin tilanteisiin) (Stora Enso tuotanto)
+
+-Hälytysdataa (Stora Enso tuotanto / Valmet dna) hälyttävät yhteen vikaan liittyen; ei vielä ole mallia että tästä voitaisiin päätellä että tästä seuraa jokin toinen vika; signaali A -> signaali B -> seuraa signaali C. tämän linkittäminen edelliseen, "sormenjälki"-pohjainen hälytysmenetelmä
+
+-Huoltokäynnit ja tarkastuskäynnit (Stora Enso / Efora)
+
+-Uusien antureiden jälkiasennukset - onko tarvetta?
+-Suunnittelemattomien seisokkien maksimaalinen hyödyntäminen koko toimitusketjussa
+-Tuotantotiedot esim. lajien vaihto pitää olla tiedossa
+
+-Moottoreiden histogrammit: minimit ja maksimit, lämpötilat, kuinka monta kierrosta ne pyörii, millä kuormalla 
+
+Joint data: saman linjaston eri toimittajien yhteinen data
+
+Engineering
+===========
+
+-Operatiivinen data, useita toimintapisteitä ja käyttöastevaihtoehtoja
+-Laitetietokanta (PLM, eBOM)
+-suunnitteluparametrit eri kuin operointiympäristö
+-tiedon epäkäytettävyys, formaatti epäselvä / tieto ei ole oikein. metadatalla iso merkitys.
+
+Operations
+==========
+
+-Katkotiedot (kommentit, luokitukset)
+	-> Irtoavan lian aiheuttamat katkot, Kuivaussylinterien ympärille tulevat kartonkimällit
+-Prosessitiedot (sellun ominaisuudet, massasuhteet, kemikaalit)
+-Lajittimien toiminta
+-Koneen ajoparametrit
+-Lyhytpitkä kierto
+-Kemian tila
+-Lämpötilat, pH..
+-Reseptin muutokset
+-Raaka-ainemuutokset
+-Jauhatus
+-Säätöpiirien parametrit
+-Säätöpiirien käyttö
+-Operaattorien toimenpiteet ja havainnot
+-Kunnossapitohistoria
+-Värähtelyt ja muut kunnonvalvonnan mittaukset
+-Käytöt pumpussa
+-Venttiilit
+-Automaatiojärjestelmän tiedot
+-Linjakäytöt
+-Analyysi, mitä tietoa on ollut aikaisemmin käytössä ja mikä tieto on puuttunut
+-Monenkeskeinen tiedon yhdistäminen
+
+Which data can your organization provide to the common "machine cloud"?
+-engineering/design -data
+-operations -data
+-maintenance -data
+
+Kartonkikone 5, Tainionkoski. Rakennettu 1965. uusittu 2001 ja 2008, pituusleikkuri ja pakkaamo uusittu 2015. vaihtovirta, taajuusmuuttaja. 
+tuotanto 270,000t/a
+
+Stora Enson tehdas
+Valmetin kone, Valmetin automaatiojärjestelmä (nimi DNA). 
+Sähkölaitteet ABB:lta 
+Metso venttiilit
+
+Nestepakkauskartonki (LPB, liquid packaging board): maitotötsät jne.
+
+
+TODO: Production system DOMAIN in Imatra mills -kuva!

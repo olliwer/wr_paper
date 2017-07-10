@@ -1,0 +1,86 @@
+What kind of joint data would improve the reliability of machines, and thus the outcome of Imatra BL5 production line?
+
+Työn rakenne:
+
+Introduction
+	-Tutkimusongelma
+	-Tutkimuskysymykset
+Metodit
+	- Kvalitatiivinen case-tutkimus tuettuna kvantitatiivisella kyselyllä
+	- Kuinka kerätään dataa, kuinka analysoidaan dataa
+Teoria
+	-Relevantit prosessiteollisuuden kirjallisuus
+	-miten massiivisessa valmistavassa teollisuudessa voidaan hyödyntää uusia ICT-ratkaisuja?
+	-Operations management, Maintenance operations management, Teollisuustaloudellinen näkökunta, Joint / shared enterprise data, IoT / teknologiakulma
+Empiria: Background / Environment
+	- kartongin valmistus
+	- kartonkikone + tuotantolinja
+	- kunnossapitonäkökulma
+	- tietojärjestelmät: mitä dataa, mitä tietojärjestelmiä
+Tutkimustulokset
+	- Tutkimustulosten avausta, data-analyysin tuloksia, 
+Conclusion
+	- konkreettinen vastaus tutkimuskysymyksiin
+Discussion
+	-rajoitteet, kuinka hyödyntää muualla, jatkotutkimus
+
+Tutkimusongelma:
+Research Problem
+
+Kartonkikone 5:n käyttöaste on ~80%, johtuen huoltoikkunoiden limittämisongelmasta, perälaatikon saostumista, ongelmista pituusleikkurissa, 
+
+Miten nostaa kartonkikone 5:n tuotantolinjan käyttöastetta laitteiden luotettavuutta parantamalla?
+-> valitaan tietyt laitteet, tietty osa, 
+-> Eforan näkökulma: Tehtaan kunnossapidon näkökulma.
+
+
+
+TODO:! Operatiivisen ja maintenance-datan yhdistäminen on jo haastavaa
+Miten dataa yhdistämällä voidaan tuoda lisäarvoa?
+
+
+
+
+tutkimuskysymykset
+
+1. Kuinka hyvin koneista kerättävän datan avulla voidaan ennakoida tarvittavat huoltotoimenpiteet?
+& RQ1: What added value can vendors bring into the operations of cardboard machine 5? 
+-Jonkun rajauksen koneisiin
+-Datamallit
+-
+
+2. How should the data be governed?
+	-Engineering, Operations, Maintenance -> kolme datalähdettä integroidaan? Engineering-tietoa ei ole SE:llä juuri käytettävissä
+
+Miten datan yhteiskäyttöä pitäisi hallita?
+Mitä kukakin yritys pystyy tuottamaan yhteiseen pilveen?
+Mitä tietojärjestelmästä voidaan ottaa ja mitä ei?
+
+-Haastattelut: ABB, Stora Enso, Metso, Efora, Valmet: mitä dataa? miten kokee hyötyvänsä tästä? miten omistus teidän mielestä mahdollista? ovatko valmiita luovuttamaan? Onko mahdollista rakentaa osuuskunta? -> jokainen tuo oman datansa, hyötyä jaetaan.  
+-Haastattelurungon tueksi kyselylomake, jonka voi lähettää laajemmalle porukalle. 
+
+3. Mitä muita _operatiivisia innovaatioita_ (tässä tuotantoympäristössä) data mahdollistaa? <- laitetoimittajille todella hyvä mahdollisuus, pystyy lisäämään omaa palvelumyyntiä maailmalla. SE saattaa pystyä optimoimaan energiakulutusta, kartongin laatua
+
+-Haastattelut
+
+haastattelu, 2 osioo: min. 2 ihmistä per organisaation: 10+ haastattelua
+Data governance
+Operatiiviset innovaation
+
+
+prosessiesitykset alkuun
+datan keräys: Stora Enso, Metso, Valmet, ABB
+
+Eforaa varmaankin kiinnostaa huoltoikkunoiden integroiminen ja ennaltaehkäisevä kunnossapito korrelaatioiden kautta -> miten mahdollista alustaa tätä ennen kuin datan yhdistys tehdään?
+
+
+
+TODO: martti mukaan
+
+Ennen kesälomia viitekehys? Tämän jälkeen haastattelut.
+Haastattelut kesä-heinä-elo
+Wrapuppi elo-syys-loka
+Valmis loka-marras
+
+TODO: ota tarvittavat laput Martin palaveriin mukaan
+Tutalta proffa? Riitta Smeds -> Martin Digital Disruption -tutkimuksessa mukana
