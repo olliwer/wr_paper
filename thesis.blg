@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: acm.bst
+White space in argument---line 83 of file thesis.aux
+ : \citation{Aijan
+ :                 paperi}
+I'm skipping whatever remains of this command
+Database file #1: sources.bib
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "penrose1995theory"
+Warning--I didn't find a database entry for "loebbecke2016managing"
+Warning--I didn't find a database entry for "chiu2006understanding"
+Warning--I didn't find a database entry for "loebecke1999co"
+Warning--I didn't find a database entry for "fiala2005information"
+Warning--I didn't find a database entry for "chesbrough2007business"
+Warning--I didn't find a database entry for "lee2000information"
+Warning--I didn't find a database entry for "croom2007information"
+Warning--I didn't find a database entry for "schomm2013marketplaces"
+Warning--I didn't find a database entry for "eisenhardt1989building"
+Warning--I didn't find a database entry for "robson2016real"
+Warning--I didn't find a database entry for "dubois2002systematic"
+Warning--I didn't find a database entry for "king1998template"
+(There was 1 error message)
